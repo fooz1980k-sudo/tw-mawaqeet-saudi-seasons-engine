@@ -10,9 +10,9 @@
   "author": {
     "name": "Khaled Alshamrani",
     "email": "fooz1980k@gmail.com",
-    "url": "https://github.com/fooz1980k-sudo/tw-mawaqeet"
+    "url": "https://github.com/fooz1980k-sudo/tw-mawaqeet-saudi-seasons-engine"
   },
-  "repository": "https://github.com/fooz1980k-sudo/tw-mawaqeet",
+  "repository": "https://github.com/fooz1980k-sudo/tw-mawaqeet-saudi-seasons-engine",
   "components": [
     {
       "title": "مواقيت · واجهة الموسم التلقائية",
@@ -1422,7 +1422,7 @@
         }
       ],
       "key": "4fedf537-67cb-5298-aa80-31743eeec8ba",
-      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-mawaqeet/main/previews/mawaqeet-hero.jpg"
+      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-mawaqeet-saudi-seasons-engine/main/previews/mawaqeet-hero.jpg"
     },
     {
       "title": "مواقيت · العدّ للمناسبة القادمة",
@@ -2572,7 +2572,7 @@
         }
       ],
       "key": "fcd16743-88e0-5bd9-8c71-cefbad484a9e",
-      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-mawaqeet/main/previews/mawaqeet-countdown.jpg"
+      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-mawaqeet-saudi-seasons-engine/main/previews/mawaqeet-countdown.jpg"
     },
     {
       "title": "مواقيت · تقويم المواسم",
@@ -3613,7 +3613,7 @@
         }
       ],
       "key": "817d0cd6-5a0f-552e-9d0b-22616c1e679f",
-      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-mawaqeet/main/previews/mawaqeet-calendar.jpg"
+      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-mawaqeet-saudi-seasons-engine/main/previews/mawaqeet-calendar.jpg"
     },
     {
       "title": "مواقيت · زينة المواسم التلقائية",
@@ -4750,7 +4750,7 @@
         }
       ],
       "key": "b7effe11-55fd-5047-a644-0c2b177f0051",
-      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-mawaqeet/main/previews/mawaqeet-decor.jpg"
+      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-mawaqeet-saudi-seasons-engine/main/previews/mawaqeet-decor.jpg"
     },
     {
       "title": "مواقيت · موسم الرواتب",
@@ -5634,7 +5634,7 @@
         }
       ],
       "key": "7507ae4b-fcd8-529e-a24d-99f4ea2dacb5",
-      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-mawaqeet/main/previews/mawaqeet-payday.jpg"
+      "image": "https://raw.githubusercontent.com/fooz1980k-sudo/tw-mawaqeet-saudi-seasons-engine/main/previews/mawaqeet-payday.jpg"
     }
   ],
   "author_email": "fooz1980k@gmail.com",

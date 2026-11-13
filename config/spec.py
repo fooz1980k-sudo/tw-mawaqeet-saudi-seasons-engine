@@ -28,7 +28,7 @@ pay = dict(title="مواقيت · موسم الرواتب", icon="sicon-wallet",
     T("mid_title", "عنوان منتصف الشهر", "", mx=60), TA("mid_text", "نص منتصف الشهر", "", mx=160), T("citizen_title", "عنوان حساب المواطن", "", mx=60), TA("citizen_text", "نص حساب المواطن", "", mx=160),
     SW("ring", "دائرة العد", True), SW("show_date", "إظهار موعد الراتب", True), SW("show_products", "منتجات مقترحة", True), T("button", "نص الزر", "", mx=30), URL("link", "الرابط"),
     COLOR("color1", "اللون الأساسي", "#103b2c"), COLOR("color2", "لون التمييز", "#3ddc97"), DATE("preview_date", "🧪 جرّب تاريخاً (داخل المحرر فقط)")] + SRC("offers", 3, 6)[:3] + DESIGN())
-build("tw-mawaqeet", {"ar": "مَواقيت — محرك المواسم السعودية التلقائي", "en": "Mawaqeet — Automatic Saudi Seasons Engine"},
+build("tw-mawaqeet", repo="tw-mawaqeet-saudi-seasons-engine", {"ar": "مَواقيت — محرك المواسم السعودية التلقائي", "en": "Mawaqeet — Automatic Saudi Seasons Engine"},
       {"ar": "5 عناصر تدير مواسم متجرك وحدها: تكتشف رمضان والعيدين وعشر ذي الحجة واليوم الوطني ويوم التأسيس والجمعة البيضاء والرواتب من تقويم أم القرى تلقائياً كل سنة، وتغيّر الألوان والزينة والنصوص قبل الموسم وأثناءه وفي آخره، مع عدّاد للمناسبة القادمة، تقويم سنوي بتذكير في الجوال، زينة تلقائية، وموسم الرواتب.",
        "en": "5 components that run your seasons by themselves: Ramadan, both Eids, Dhul-Hijjah, National Day, Founding Day, White Friday and paydays are detected from the Umm al-Qura calendar every year, switching colours, decorations and copy before, during and at the end of each season; plus a next-occasion countdown, a yearly calendar with phone reminders, auto decorations and a payday engine."},
       [hero, cd, cal, dec, pay])
